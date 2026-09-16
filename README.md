@@ -15,5 +15,4 @@ Simple and beginner-friendly JavaScript project.
 
 Technologies Used:
 HTML
-CSS
 JavaScript
