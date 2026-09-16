@@ -1,6 +1,6 @@
 Pacman Edge Detection 🎮
 
-This is a simple Pacman project made using HTML, CSS, and JavaScript.
+This is a simple Pacman project made using HTML and JavaScript.
 
 In this project, Pacman moves automatically across the screen. 
 When Pacman reaches the edge of the screen, it changes direction and starts moving back. 
